@@ -10,7 +10,7 @@ It provides users with an easy way to explore movies, view details, and book tic
 ---
 
 ## 🚀 Features
-✅ Firebase Authentication (Login & Signup)  
+✅ (Login & Signup)  
 ✅ Browse Movies with Details  
 ✅ Book Tickets in Real-time  
 ✅ Interactive & Responsive UI  
@@ -21,8 +21,7 @@ It provides users with an easy way to explore movies, view details, and book tic
 ## 🛠️ Tech Stack
 | Technology  | Purpose                         |
 |-------------|---------------------------------|
-| React Native | Mobile App Frontend            |
-| Firebase     | Authentication & Database      |
+| React Native | Mobile App Frontend            |     |
 | JavaScript   | App Logic                      |
 | Expo / CLI   | Development & Testing          |
 
