@@ -12,6 +12,7 @@
 ![image](https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App/blob/65710015ccf470d6c0e9ddd8e7b2578c68014368/img4.jpg)
 ![image](https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App/blob/65710015ccf470d6c0e9ddd8e7b2578c68014368/img5.jpg)
 ![image alt](https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App/blob/65710015ccf470d6c0e9ddd8e7b2578c68014368/img.jpg)
+![image alt](https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App/blob/65710015ccf470d6c0e9ddd8e7b2578c68014368/img7.jpg)
 
 FlickIt is a **React Native-based cross-platform mobile application** for booking movie tickets.  
 It provides users with an easy way to explore movies, view details, and book tickets.
