@@ -25,5 +25,3 @@ It provides users with an easy way to explore movies, view details, and book tic
 | JavaScript   | App Logic                      |
 | Expo / CLI   | Development & Testing          |
 
-
-[image alt](https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App/blob/7d91949c4bac121aa3b95b3367cad19d04e46196/img1.jpg)
