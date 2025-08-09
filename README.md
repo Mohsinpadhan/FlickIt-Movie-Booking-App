@@ -4,6 +4,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%26%20DB-orange?logo=firebase)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+
+![image alt](https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App/blob/7d91949c4bac121aa3b95b3367cad19d04e46196/img1.jpg)
+
 FlickIt is a **React Native-based cross-platform mobile application** for booking movie tickets.  
 It provides users with an easy way to explore movies, view details, and book tickets.
 
@@ -26,17 +30,3 @@ It provides users with an easy way to explore movies, view details, and book tic
 | Expo / CLI   | Development & Testing          |
 
 
-## 📂 Project Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App.git
-
-# Go to project folder
-cd FlickIt-Movie-Booking-App
-
-# Install dependencies
-npm install
-
-# Start the app
-npm start
