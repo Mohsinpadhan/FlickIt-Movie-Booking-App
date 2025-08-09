@@ -26,17 +26,4 @@ It provides users with an easy way to explore movies, view details, and book tic
 | Expo / CLI   | Development & Testing          |
 
 
-## 📂 Project Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App.git
-
-# Go to project folder
-cd FlickIt-Movie-Booking-App
-
-# Install dependencies
-npm install
-
-# Start the app
-npm start
+[image alt](https://github.com/Mohsinpadhan/FlickIt-Movie-Booking-App/blob/7d91949c4bac121aa3b95b3367cad19d04e46196/img1.jpg)
